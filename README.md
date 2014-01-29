@@ -12,3 +12,6 @@ iTerm has sophisticated Applescript support allowing one to write stand-alone sc
 
 
 The script itself needs to be stored under the ~/Library/Application Support/iTerm/Scripts directory. You can create this directory if it does not already exist. iTerm checks this directory on startup for scripts and these can be run from the scripts menu in iTerm. You will need to restart iTerm if it to put up the Scripts directory or new scripts added.
+
+
+![image](http://markreddy.ie/wp-content/uploads/2014/01/iTerm-Multi-SSH.png =640x385)
